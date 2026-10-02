@@ -1,0 +1,6 @@
+{
+  "name": "YANZEE POS",
+  "description": "Aplikasi kasir (POS) modern, ringan, dan lengkap untuk UMKM dan toko kelontong.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
